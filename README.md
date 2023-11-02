@@ -45,7 +45,7 @@ Examples of Generated Logos
 ## Installation
 
 1. Clone the repo:
-   git clone https://github.com/andedu15/
+   git clone https://github.com/andedu15/Logo-Maker
 
 2. Open in VS Code. If you do not have VS code you must install it.
 
