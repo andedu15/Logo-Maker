@@ -56,7 +56,7 @@ function promptUser() {
           "What text would you like you logo to display? (Enter up to three characters)",
         name: "text",
       },
-      // Text
+      // Text color
       {
         type: "input",
         message:
